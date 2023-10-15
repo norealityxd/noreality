@@ -1,10 +1,10 @@
 # NoReality YouTube Gaming Channel Website
 
-Welcome to the repository for the NoReality YouTube Gaming Channel website! This project houses the code and assets for our gaming channel's website.
+Welcome to the repository for the noreality website! This project houses the code and assets for our gaming channel's website.
 
 ## Overview
 
-NoReality is a YouTube gaming channel that provides gaming content, including playthroughs, reviews, tutorials, and more. This repository contains the source code and assets used to build and maintain our website.
+Noreality is a YouTube gaming channel that provides gaming content, including playthroughs, reviews, tutorials, and more. This repository contains the source code and assets used to build and maintain our website.
 
 ## Website Structure
 
@@ -38,10 +38,10 @@ We welcome contributions from the community! If you'd like to contribute to the 
 
 ## Contact
 
-- Website: [NoReality YouTube Gaming Channel](https://yourwebsite.com)
-- YouTube Channel: [NoReality Gaming](https://youtube.com/norealitygaming)
-- Email: your@email.com
+- Website: [noreality YouTube Gaming Channel](https://yourwebsite.com)
+- YouTube Channel: [noreality](https://youtube.com/@norealityxd)
+- Email: contact.noreality@gmail.com.com
 
-Feel free to reach out if you have any questions, suggestions, or inquiries about the NoReality YouTube Gaming Channel website!
+Feel free to reach out if you have any questions, suggestions, or inquiries about the noreality website!
 
 Happy gaming! 🎮
