@@ -38,7 +38,7 @@ We welcome contributions from the community! If you'd like to contribute to the 
 
 ## Contact
 
-- Website: [noreality YouTube Gaming Channel](https://yourwebsite.com)
+- Website: [noreality website](https://yourwebsite.com)
 - YouTube Channel: [noreality](https://youtube.com/@norealityxd)
 - Email: contact.noreality@gmail.com.com
 
